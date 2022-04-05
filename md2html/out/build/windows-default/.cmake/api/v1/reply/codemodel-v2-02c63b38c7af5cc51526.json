@@ -1,0 +1,56 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "md2html::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-md2html-Debug-af18558a384024b572f3.json",
+					"name" : "md2html",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/TerasKasi/source/repos/olcPixelGameEngine/MyEroge/Vendor/md4c/md2html/out/build/windows-default",
+		"source" : "C:/Users/TerasKasi/source/repos/olcPixelGameEngine/MyEroge/Vendor/md4c/md2html"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
